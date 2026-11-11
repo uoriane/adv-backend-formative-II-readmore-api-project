@@ -8,6 +8,10 @@ Then, in **Part 4**, the store "goes live" and your endpoints have to enforce **
 
 > **Before you start:** watch the Mongoose video shared with this assignment. It covers connecting to MongoDB, defining schemas and models, and the basic query methods you will need. This is a take-home assignment — you are expected to work out the *how* yourself.
 
+## Video Walkthrough
+
+[Watch the video walkthrough](https://youtu.be/jOQeZh1kC1o)
+
 ---
 
 ## What you need
